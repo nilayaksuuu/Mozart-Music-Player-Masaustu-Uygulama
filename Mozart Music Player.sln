@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mozart Music Player", "Mozart Music Player.csproj", "{9FC84D14-AD6F-493C-9771-87ED1BC9BF02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CE3BC5D2-779E-4585-91E4-AD393D6FAF07}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FC84D14-AD6F-493C-9771-87ED1BC9BF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC84D14-AD6F-493C-9771-87ED1BC9BF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC84D14-AD6F-493C-9771-87ED1BC9BF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC84D14-AD6F-493C-9771-87ED1BC9BF02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BD8BDDD-4FD9-4D47-93BB-29F5D61E82FB}
+	EndGlobalSection
+EndGlobal

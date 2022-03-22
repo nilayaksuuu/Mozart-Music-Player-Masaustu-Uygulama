@@ -1,0 +1,7 @@
+﻿[*.{cs,vb}]
+
+# IDE0044: Salt okunur değiştirici ekle
+dotnet_style_readonly_field = true:suggestion
+
+# IDE0040: Erişilebilirlik değiştiricileri Ekle
+dotnet_style_require_accessibility_modifiers = always:silent
